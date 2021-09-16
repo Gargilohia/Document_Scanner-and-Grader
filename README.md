@@ -15,4 +15,4 @@ Reference : https://dontrepeatyourself.org/post/learn-opencv-by-building-a-docum
 
 2. Grading OMR 
 
-Relevant contours(question bubbles) are grabbed and thresholding is used to determine filled bubbles 
+Relevant contours(question bubbles) are grabbed and thresholding is used to determine whether filled bubbles are right 
